@@ -84,28 +84,9 @@ npm test
 
 # 4. Production build verification
 npm run build
-npm run preview
+
 ```
 
----
-
-## 🚀 Deployment Instructions (Vercel / Netlify)
-
-### Deploying on Vercel:
-1. Push this repository to GitHub.
-2. Go to [Vercel Dashboard](https://vercel.com/new) and import the repository.
-3. Vercel automatically detects **Vite** framework settings:
-   - **Build Command**: `npm run build`
-   - **Output Directory**: `dist`
-4. Click **Deploy**.
-
-### Deploying on Netlify:
-1. Go to [Netlify Dashboard](https://app.netlify.com/start) and link your GitHub repo.
-2. Set Build Command: `npm run build`
-3. Set Publish Directory: `dist`
-4. Click **Deploy Site**.
-
----
 
 ## 📌 Features Completed & Known Limitations
 
